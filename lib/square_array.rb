@@ -1,5 +1,5 @@
-def square_array(array)
-  number = array[1, 2, 3]
-  puts number 
-  Math.sqrt(number)
+def square_array(array, numbers)
+  numbers = [1, 2, 3]
+  puts numbers
+  Math.sqrt(numbers)
 end
